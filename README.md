@@ -17,7 +17,7 @@ c. EDA (Explorary Data Analysis) + Data Visualization starts at page 24.
 5. "SQLscript_NetflixDataVisualization.sql"
 -> Contains SQL script. This script was made as if I were to answer question and visualize the data using SQL. I used the cleaned version of the data (cleaned with Python) and made queries for answering question presented in the portfolio.
 
-=======================================================================================================================================================================
+=====================================================================
 Questions I need to answer from the presented Netflix dataset (same one from portfolio):
 1. How does the amount of content on Netflix grow over the year? What year did Netflix add the most content on its platform? What is themost popular month for Netflix to add new content?
 2.What type of content dominates the platform? What kind of genre dominates the most for each type? How does the duration of shows vary? Is there any correlation between duration and genre that dominates?
