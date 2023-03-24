@@ -7,8 +7,8 @@ My Portfolio for Data Analyst Position. This repository contains:
 
 3. "Portfolio_DataAnalysis_L.pdf"
 -> Contains my portfolio from Jupyter Notebook but in PDF format. The PDF format makes it easier to jump pages although you do have to download the file first if you want to be able to jump pages. Here is some key pages that you can quickly navigate to:
-a. Questions can be found at page 1.
-b. Data preprocessing (checking and cleaning data) starts at page 3.
+a. Questions can be found at page 1,
+b. Data preprocessing (checking and cleaning data) starts at page 3,
 c. EDA (Explorary Data Analysis) + Data Visualization starts at page 24.
 
 4. "README.md"
