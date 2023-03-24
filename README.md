@@ -20,7 +20,11 @@ c. EDA (Explorary Data Analysis) + Data Visualization starts at page 24.
 ---
 Questions I need to answer from the presented Netflix dataset (same one from portfolio):
 1. How does the amount of content on Netflix grow over the year? What year did Netflix add the most content on its platform? What is themost popular month for Netflix to add new content?
+
 2.What type of content dominates the platform? What kind of genre dominates the most for each type? How does the duration of shows vary? Is there any correlation between duration and genre that dominates?
+
 3.Which (maturity) rating has the most amount on both type of content? Does that reflects Netflix's target audience?
+
 4.Which country has the most content?
+
 5.Which actor/actress shows up most frequently? What about director? Which one shows up most frequently? Is there any correlationbetween the two (actor and director)? Which actor - director pairing shows up the most?
