@@ -6,7 +6,7 @@ My Portfolio for Data Analyst Position. This repository contains:
 -> Contains my portfolio in Jupyter Notebook format. The portfolio demonstrates me analyzing a Netflix dataset. It starts with asking myself the question I needed answer from this dataset (what do I wanna know or infer from this dataset), continued by cleaning the dataset and ended with Exploratory Data Analysis along with its visualization. The cleaning and visualizing is both done using Python 3.0 language.
 
 3. Portfolio_DataAnalysis_L.pdf
--> Contains my portfolio from Jupyter Notebook but in PDF format. The PDF format makes it easier to jump pages although you do have to download the file first. Here is some key pages that you can quickly navigate to:
+-> Contains my portfolio from Jupyter Notebook but in PDF format. The PDF format makes it easier to jump pages although you do have to download the file first if you want to be able to jump pages. Here is some key pages that you can quickly navigate to:
 a. Questions can be found at page 1.
 b. Data preprocessing (checking and cleaning data) starts at page 3.
 c. EDA (Explorary Data Analysis) + Data Visualization starts at page 24.
