@@ -1,4 +1,4 @@
-My Portfolio for Data Analyst Position. This repository contains:
+My portfolio for Data Analyst position. This repository contains:
 1. "Graph_Output(Visualization) in PNG" folder
 -> This folder contains various graphic in PNG format. The graphic is the visualization of the data made using Matplotlib. The filename represents the question's number in which I was trying to answer using this visualization. Example: filename '1a & 1b' means that it's a graph for answering question number 1a and number 1b. The question is available on the first page of my portfolio either in ipynb format or pdf format. For convenience I'll also put the questions at the end of this README file.
 
